@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🌱 I’m currently learning real-time systems, computer vision and adversarial attack. 
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=ZexinLi0w0&show_icons=true&count_private=true)
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ZexinLi0w0&layout=compact)
