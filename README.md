@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ZexinLi0w0/ZexinLi0w0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently learning real-time systems, computer vision and adversarial attack. 
+🔭 I’m currently working on @UTDallas as a PhD student in computer science department.
+
+🌱 I’m currently focusing on research projects in the fields of real-time systems and embedded systems. My research interests include real-time systems, embedded systems and computer vision.
+
+<a href="https://www.linkedin.com/in/%E6%B3%BD%E9%91%AB-%E6%9D%8E-25b985185/">LinkedIn</a>
+
+<a href="https://zexinli0w0.github.io/">Blog</a>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ZexinLi0w0&show_icons=true&count_private=true&theme=tokyonight)
 
