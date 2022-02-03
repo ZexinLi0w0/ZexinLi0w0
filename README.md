@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on @UTDallas as a PhD student in computer science department.
+🔭 I’m a second-year PhD student in computer science department at @UTDallas.
 
 🌱 I’m currently focusing on research projects in the fields of real-time systems and embedded systems. My research interests include real-time systems, embedded systems and computer vision.
 
