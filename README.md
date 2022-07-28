@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 🌱 I’m currently focusing on research projects in the fields of real-time systems and embedded systems. My research interests include real-time systems, embedded systems and machine learning.
 
-<a href="https://www.linkedin.com/in/%E6%B3%BD%E9%91%AB-%E6%9D%8E-25b985185/">LinkedIn</a>
+<a href="https://www.linkedin.com/in/zexin-li-25b985185/">LinkedIn</a>
 
 <a href="https://zexinli0w0.github.io/">Blog</a>
 
