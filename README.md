@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m a current PhD student in computer science department at @UTDallas. I will move to @UCRiverside in 2022 Fall.
+🔭 I’m a current Ph.D. student in the computer science department at @UTDallas. I will move to @UCRiverside in 2022 Fall.
 
-🌱 I’m currently focusing on research projects in the fields of real-time systems and embedded systems. My research interests include real-time systems, embedded systems and machine learning.
+🌱 I’m currently focusing on real-time and embedded systems research projects. My research interests include real-time systems, embedded systems, and machine learning.
 
 <a href="https://www.linkedin.com/in/zexin-li-25b985185/">LinkedIn</a>
 
