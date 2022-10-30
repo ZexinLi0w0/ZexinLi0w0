@@ -14,11 +14,13 @@ Here are some ideas to get you started:
 -->
 🔭 I’m a current Ph.D. student in @UCRiverside from 2022 Fall.
 
-🌱 I’m currently focusing on real-time and embedded systems research projects. My research interests include real-time systems, embedded systems, and machine learning.
+🌱 My research interest lies in the intersection fields of real-time systems, robotic systems, software engineering, and machine learning.
 
 <a href="https://www.linkedin.com/in/zexin-li-25b985185/">LinkedIn</a>
 
 <a href="https://zexinli0w0.github.io/">Blog</a>
+
+<a href="https://zexinli.com/">Personal Page</a>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ZexinLi0w0&show_icons=true&count_private=true&theme=buefy)
 
