@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 🔭 I’m a current Ph.D. student in @UCRiverside from 2022 Fall.
 
-🌱 My research interest lies in the inter-disciplinary fields of real-time systems, robotic systems, software engineering, and machine learning.
+🌱 My research interest lies in the inter-disciplinary fields of real-time systems, robotic systems, computer vision, machine learning and software engineering.
 
 <a href="https://www.linkedin.com/in/zexin-li-25b985185/">LinkedIn</a>
 
