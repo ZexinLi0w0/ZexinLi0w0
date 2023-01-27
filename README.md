@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ZexinLi0w0&layout=compact&theme=buefy&exclude_repo=ZexinLi0w0.github.io,mysite)
 
  <!-- waka-box start -->
-📊 Weekly development breakdown
+#### <a href="https://gist.github.com/05a7064536359f4ab6203e498d96a5e2" target="_blank">📊 Weekly development breakdown</a>
 ```text
 Still Gathering Statistics...
 ```
