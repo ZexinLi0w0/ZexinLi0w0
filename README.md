@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ZexinLi0w0&layout=compact&theme=buefy&exclude_repo=ZexinLi0w0.github.io,mysite)
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+ <!-- waka-box start -->
+ <!-- waka-box end -->
