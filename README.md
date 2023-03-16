@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 <a href="https://zexinli.com/">Personal Page</a>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=ZexinLi0w0&show_icons=true&count_private=true&theme=buefy)
+![Github stats](https://github-readme-stats.vercel.app/api?username=ZexinLi0w0&theme=solarized-light&show_icons=true&count_private=true&theme=buefy)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ZexinLi0w0&layout=compact&theme=buefy&exclude_repo=ZexinLi0w0.github.io,mysite)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ZexinLi0w0&theme=solarized-light&layout=compact&theme=buefy&exclude_repo=ZexinLi0w0.github.io,mysite)
 
  <!-- waka-box start -->
 #### <a href="https://gist.github.com/05a7064536359f4ab6203e498d96a5e2" target="_blank">📊 Weekly development breakdown</a>
