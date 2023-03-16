@@ -7,6 +7,11 @@
 
 🌱 My research interests include but are not limited to the inter-disciplinary fields of real-time embedded systems, machine learning systems, and software engineering.
 
+<p align="center">
+<a href='https://www.linkedin.com/in/zexin-li-25b985185/'>
+  <img src='https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg' alt='LinkedIn' height='40'>
+</a>
+
 <a href="https://www.linkedin.com/in/zexin-li-25b985185/">LinkedIn</a>
 
 <a href="https://zexinli0w0.github.io/">Blog</a>
@@ -21,11 +26,11 @@
  <!-- waka-box start -->
 #### <a href="https://gist.github.com/05a7064536359f4ab6203e498d96a5e2" target="_blank">📊 Weekly development breakdown</a>
 ```text
-Python         🕓 4h36m ███████████████████▍░░░░ 81.1%
-Markdown       🕓 24m   █▋░░░░░░░░░░░░░░░░░░░░░░  7.1%
-C              🕓 21m   █▍░░░░░░░░░░░░░░░░░░░░░░  6.2%
-Makefile       🕓 12m   ▊░░░░░░░░░░░░░░░░░░░░░░░  3.6%
-ObjectiveC     🕓 6m    ▍░░░░░░░░░░░░░░░░░░░░░░░  1.9%
+Python        🕓 3h4m ████████████████████▏░░░░░ 77.7%
+Markdown      🕓 24m  ██▋░░░░░░░░░░░░░░░░░░░░░░░ 10.2%
+C             🕓 14m  █▌░░░░░░░░░░░░░░░░░░░░░░░░  6.1%
+Makefile      🕓 12m  █▎░░░░░░░░░░░░░░░░░░░░░░░░  5.2%
+ObjectiveC    🕓 1m   ▏░░░░░░░░░░░░░░░░░░░░░░░░░  0.6%
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
@@ -38,19 +43,34 @@ ObjectiveC     🕓 6m    ▍░░░░░░░░░░░░░░░░░
 <a href='https://www.python.org/'>
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" height="40"/>
 </a>
+  <a href='https://www.rust-lang.org/'>
+  <img src='https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg' alt='Rust' height='40'>
+</a>
+   <a href='https://ubuntu.com/'>
+  <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="Ubuntu" height="40"/>
+</a>
+  <a href='https://www.linux.org/'>
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" height="40"/> 
+</a>
+ <a href='https://www.ros.org/'>
+  <img src='https://www.vectorlogo.zone/logos/ros/ros-icon.svg' alt='ROS' height='40'>
+</a>
+ <a href='https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/'>
+  <img src="https://www.vectorlogo.zone/logos/nvidia/nvidia-icon.svg" alt="Nvidia" height="40"/> 
+</a>
 <a href="https://pytorch.org/"> 
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" height="40"/> 
 </a>
-<a href='https://code.visualstudio.com/'>
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="Visual-Studio-Code" height="40"/> 
+<a href='https://tensorflow.google.cn/'>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" height="40"/> 
+</a>
+ <a href='https://unity.com/'>
+  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity3d" height="40"/> 
 </a>
 <a href='https://git-scm.com/'>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="40"/>
 </a>
-<a href='https://jupyter.org/'>
-  <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="Jupyter" height="40"/> 
-</a>
-<a href='https://tensorflow.google.cn/'>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" height="40"/> 
+ <a href='https://gitlab.com/'>
+  <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="Gitlab" height="40"/>
 </a>
 </p>
