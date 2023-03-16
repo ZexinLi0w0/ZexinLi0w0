@@ -3,20 +3,19 @@
 </h1>
 
 # About ME
-🔭 I’m a current Ph.D. student in @UCRiverside from 2022 Fall.
+I’m a current Ph.D. student in @UCRiverside from 2022 Fall.
 
-🌱 My research interests include but are not limited to the inter-disciplinary fields of real-time embedded systems, machine learning systems, and software engineering.
+My research interests include but are not limited to the inter-disciplinary fields of real-time embedded systems, machine learning systems, and software engineering.
 
-<p align="center">
+· My linkedIn: 
 <a href='https://www.linkedin.com/in/zexin-li-25b985185/'>
-  <img src='https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg' alt='LinkedIn' height='40'>
+  <img src='https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg' alt='LinkedIn' height='15'>
 </a>
 
-<a href="https://www.linkedin.com/in/zexin-li-25b985185/">LinkedIn</a>
-
-<a href="https://zexinli0w0.github.io/">Blog</a>
-
-<a href="https://zexinli.com/">Personal Page</a>
+· My blog:
+ <a href='https://blog.zexinli.com'>
+  <img src='https://user-images.githubusercontent.com/35922034/225746449-8f6b0c85-d1b9-437b-b11d-f05d2de9d5bf.png' alt='Blog' height='15'>
+</a>
 
 # Stat
 <a href="https://github.com/ZexinLi0w0/ZexinLi0w0">
