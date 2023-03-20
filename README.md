@@ -17,6 +17,10 @@ My research interests include but are not limited to the inter-disciplinary fiel
   <img src='https://user-images.githubusercontent.com/35922034/225746449-8f6b0c85-d1b9-437b-b11d-f05d2de9d5bf.png' alt='Blog' height='15'>
 </a>
 
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=zexinli0w0" alt="vistors">
+</p>
+
 # Stat
 <a href="https://github.com/ZexinLi0w0/ZexinLi0w0">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZexinLi0w0&theme=graywhite&layout=compact&exclude_repo=ZexinLi0w0.github.io,acamedic-page" alt="ZexinLi0w0's GitHub Stats" /></a><a href="https://github.com/ZexinLi0w0">
