@@ -32,7 +32,7 @@ Bash         🕓 7m     ▎░░░░░░░░░░░░░░░░░�
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
 
-## Languages and Tools
+# Languages and Tools
 <p align="center">
 <a href='https://en.cppreference.com/w/cpp'>
   <img src='https://cdn.jsdelivr.net/npm/simple-icons@6.20.0/icons/cplusplus.svg' alt='C++' height='60px'>
