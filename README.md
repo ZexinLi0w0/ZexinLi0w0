@@ -17,8 +17,8 @@ My research interests include but are not limited to the inter-disciplinary fiel
 
 # Stat
 <a href="https://github.com/ZexinLi0w0/ZexinLi0w0">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZexinLi0w0&theme=graywhite&count_private=true&show_icons=true&exclude_repo=ZexinLi0w0.github.io,acamedic-page" alt="ZexinLi0w0's GitHub Language Stats" height="200px"/></a><a href="https://github.com/ZexinLi0w0">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZexinLi0w0&theme=graywhite&show_icons=true&count_private=true&title_color=333&text_color=777" alt="ZexinLi0w0's GitHub Stats" height="200px" /></a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZexinLi0w0&theme=graywhite&count_private=true&show_icons=true&exclude_repo=ZexinLi0w0.github.io,acamedic-page" alt="ZexinLi0w0's GitHub Language Stats" height="150px"/></a><a href="https://github.com/ZexinLi0w0">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZexinLi0w0&theme=graywhite&show_icons=true&count_private=true&title_color=333&text_color=777" alt="ZexinLi0w0's GitHub Stats" height="150px" /></a>
 
  <!-- waka-box start -->
 #### <a href="https://gist.github.com/05a7064536359f4ab6203e498d96a5e2" target="_blank">📊 Weekly development breakdown</a>
