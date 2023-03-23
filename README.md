@@ -17,7 +17,7 @@ My research interests include but are not limited to the inter-disciplinary fiel
 
 # Stat
 <a href="https://github.com/ZexinLi0w0/ZexinLi0w0">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZexinLi0w0&theme=graywhite&layout=compact&exclude_repo=ZexinLi0w0.github.io,acamedic-page" alt="ZexinLi0w0's GitHub Stats" /></a><a href="https://github.com/ZexinLi0w0">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZexinLi0w0&theme=graywhite&layout=compact&count_private=true&show_icons=true&exclude_repo=ZexinLi0w0.github.io,acamedic-page" alt="ZexinLi0w0's GitHub Stats" /></a><a href="https://github.com/ZexinLi0w0">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZexinLi0w0&theme=graywhite&show_icons=true&line_height=27&count_private=true&title_color=333&text_color=777" alt="ZexinLi0w0's GitHub Stats" /></a>
 
  <!-- waka-box start -->
