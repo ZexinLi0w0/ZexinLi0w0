@@ -7,15 +7,16 @@ I’m a current Ph.D. student in @UCRiverside from 2022 Fall. <img src="https://
 
 My research interests include but are not limited to the inter-disciplinary fields of real-time embedded systems, machine learning systems, and software engineering.
 
-·<a href='https://www.linkedin.com/in/zexin-li-25b985185/'>
- LinkedIn</a>
-
-·
- <a href='https://blog.zexinli.com'>
- Blog
-</a>
+# Connect with me
+<p align="left">
+<a href="https://twitter.com/lizexin0903" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lizexin0903" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/zexin-li-25b985185/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://www.instagram.com/zexinli0w0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zexinli0w0" height="30" width="40" /></a>
+</p>
 
 # Stat
+[![trophy](https://github-profile-trophy.vercel.app/?username=ZexinLi0w0)](https://github.com/ryo-ma/github-profile-trophy)
+
 <a href="https://github.com/ZexinLi0w0/ZexinLi0w0">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZexinLi0w0&theme=graywhite&count_private=true&show_icons=true&exclude_repo=ZexinLi0w0.github.io,acamedic-page" alt="ZexinLi0w0's GitHub Language Stats" height="150px"/></a><a href="https://github.com/ZexinLi0w0">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZexinLi0w0&theme=graywhite&show_icons=true&count_private=true&title_color=333&text_color=777" alt="ZexinLi0w0's GitHub Stats" height="150px" /></a>
