@@ -14,7 +14,7 @@ My research interests include but are not limited to the inter-disciplinary fiel
 <a href="https://www.instagram.com/zexinli0w0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zexinli0w0" height="30" width="40" /></a>
 </p>
 
-# Stat
+# Statistics
 [![trophy](https://github-profile-trophy.vercel.app/?username=ZexinLi0w0)](https://github.com/ryo-ma/github-profile-trophy)
 
 <a href="https://github.com/ZexinLi0w0/ZexinLi0w0">
