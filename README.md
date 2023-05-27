@@ -3,7 +3,7 @@
 </h1>
 
 # About ME
-I’m a current Ph.D. student in @UCRiverside from 2022 Fall. <img src="https://visitor-badge.glitch.me/badge?page_id=zexinli0w0" alt="vistors"> 
+I’m a current Ph.D. student in @UCRiverside from 2022 Fall. 
 
 My research interests include but are not limited to the inter-disciplinary fields of real-time embedded systems, machine learning systems, and software engineering.
 
