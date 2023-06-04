@@ -24,7 +24,7 @@ My research interests include but are not limited to the inter-disciplinary fiel
  <!-- waka-box start -->
 #### <a href="https://gist.github.com/05a7064536359f4ab6203e498d96a5e2" target="_blank">📊 Weekly development breakdown</a>
 ```text
-Python 🕓 3m ███████████████████████████████████100.0%
+Still Gathering Statistics...
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
