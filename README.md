@@ -3,35 +3,17 @@
 </h1>
 
 # About ME
-I’m a current Ph.D. student in @UCRiverside from 2022 Fall. 
+I’m a current Ph.D. student in [@UCRiverside](https://www.ucr.edu/) from 2022 Fall. 
 
-My research interests include but are not limited to the inter-disciplinary fields of real-time embedded systems, machine learning systems, and software engineering.
+My research interests lie in interdisciplinary fields of real-time embedded systems, on-device machine learning, and adversarial machine learning.
+I am actively looking for cooperation in the following topics: (1) deploying ML models on real-time embedded devices, (2) system-application co-optimization of complex machine learning systems, and (3) improving performance robustness in existing ML infrastructures.
 
-# Connect with me
-<p align="left">
-<a href="https://twitter.com/lizexin0903" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lizexin0903" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/zexin-li-25b985185/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://www.instagram.com/zexinli0w0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zexinli0w0" height="30" width="40" /></a>
-</p>
+<strong>Feel free to contact me if we share common research interests.</strong>
 
 # Statistics
 [![trophy](https://github-profile-trophy.vercel.app/?username=ZexinLi0w0&title=Stars,Followers,Issues,Commits,PullRequest,Reviews)](https://github.com/ryo-ma/github-profile-trophy)
 
-<a href="https://github.com/ZexinLi0w0/ZexinLi0w0">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZexinLi0w0&theme=graywhite&count_private=true&show_icons=true&exclude_repo=ZexinLi0w0.github.io,acamedic-page" alt="ZexinLi0w0's GitHub Language Stats" height="150px"/></a><a href="https://github.com/ZexinLi0w0">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZexinLi0w0&theme=graywhite&show_icons=true&count_private=true&title_color=333&text_color=777" alt="ZexinLi0w0's GitHub Stats" height="150px" /></a>
-
- <!-- waka-box start -->
-#### <a href="https://gist.github.com/05a7064536359f4ab6203e498d96a5e2" target="_blank">📊 Weekly development breakdown</a>
-```text
-Python         🕓 5h29m ██████████████████████▊░ 94.8%
-YAML           🕓 17m   █▏░░░░░░░░░░░░░░░░░░░░░░  5.0%
-GitIgnore file 🕓 0s    ░░░░░░░░░░░░░░░░░░░░░░░░  0.1%
-Markdown       🕓 0s    ░░░░░░░░░░░░░░░░░░░░░░░░  0.1%
-Text           🕓 0s    ░░░░░░░░░░░░░░░░░░░░░░░░  0.0%
-```
-<!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
-<!-- waka-box end -->
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ZexinLi0w0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 # Languages and Tools
 <p align="center">
