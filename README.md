@@ -5,7 +5,7 @@
 # About ME
 I’m a current Ph.D. student in [@UCRiverside](https://www.ucr.edu/) from 2022 Fall. 
 
-My research interests lie in interdisciplinary fields of real-time embedded systems, on-device machine learning, and adversarial machine learning.
+My research interests lie in interdisciplinary fields of real-time embedded systems and on-device machine learning.
 I am actively looking for cooperation in the following topics: (1) deploying ML models on real-time embedded devices, (2) system-application co-optimization of complex machine learning systems, and (3) improving performance robustness in existing ML infrastructures.
 
 <strong>Feel free to contact me if we share common research interests.</strong>
