@@ -13,6 +13,7 @@ I am actively looking for cooperation in the following topics: (1) deploying ML 
 # Statistics
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ZexinLi0w0&layout=compact&theme=swift&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
+<!-- Comment 
 # Languages and Tools
 <p align="center">
 <a href='https://en.cppreference.com/w/cpp'>
@@ -52,3 +53,4 @@ I am actively looking for cooperation in the following topics: (1) deploying ML 
   <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="Gitlab" height="60px"/>
 </a>
 </p>
+-->
