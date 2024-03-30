@@ -11,7 +11,14 @@ I am actively looking for cooperation in the following topics: (1) deploying ML 
 <strong>Feel free to contact me if we share common research interests.</strong>
 
 # Statistics
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ZexinLi0w0&layout=compact&theme=swift&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zexinli0w0&exclude_repo=InterestingCardGame,ZexinLi0w0.github.io&layout=compact&theme=swift&langs_count=8" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ZexinLi0w0&layout=compact&theme=swift&langs_count=8" />
+  </a>
+</p>
 
 <!-- Comment 
 # Languages and Tools
