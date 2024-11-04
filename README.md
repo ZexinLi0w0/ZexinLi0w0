@@ -3,10 +3,7 @@
 </h1>
 
 # About ME
-I’m a current Ph.D. student in [@UCRiverside](https://www.ucr.edu/). 
-
-My research interests lie in interdisciplinary fields of real-time embedded systems and on-device machine learning.
-I am actively looking for cooperation in the following topics: (1) deploying ML models on real-time embedded devices, (2) system-application co-optimization of complex machine learning systems, and (3) improving performance robustness in existing ML infrastructures.
+I’m a current Ph.D. candidate in [@UCRiverside](https://www.ucr.edu/). 
 
 <strong>Feel free to contact me if we share common research interests.</strong>
 
